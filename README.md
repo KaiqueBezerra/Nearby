@@ -1,1 +1,1 @@
-![Imagem do projeto](Nearby.png)
+![Imagem do projeto](Nearby.jpg)
